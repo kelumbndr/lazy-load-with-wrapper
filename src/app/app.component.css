@@ -1,0 +1,17 @@
+p {
+  font-family: Lato;
+}
+.my-nav {
+  overflow: auto;
+  padding: 10px;
+}
+.my-nav a {
+  display: block;
+  float: left;
+  text-decoration: none;
+
+  padding: 5px 10px;
+  margin: 2px;
+  background: rgb(241, 235, 235);
+  border-radius: 5px;
+}
